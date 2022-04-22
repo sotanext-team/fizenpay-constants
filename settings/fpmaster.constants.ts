@@ -1,0 +1,3 @@
+export const FPMASTER_CONST = {
+    SERVICE_FEE_DECIMAL: 1000,
+};
