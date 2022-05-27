@@ -8,7 +8,6 @@ export const OPERATION_INVOICE_CREATED = "operation-invoice_created";
 export const SECURITY_AUTHENTICATION_DEVICE_UPDATED =
   "security-authentication_device_updated";
 export const SECURITY_PASSWORD_UPDATED = "security-password_updated";
-export const SECURITY_CLOSE_ACCOUNT = "security-close_account";
 export const SECURITY_REMIND_BACKUP_CODES_EXCEED_LIMIT =
   "security-remind_backup_codes_exceed_limit";
 export const SETTINGS_SUPPORT_EMAIL_UPDATED = "settings-support_email_updated";
