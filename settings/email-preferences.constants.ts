@@ -1,6 +1,7 @@
 export const OPERATION_CHARGE_CREATED = 'operation-charge_created';
 export const OPERATION_CHARGE_EXPIRED = 'operation-charge_expired';
 export const OPERATION_PAYMENT_CREATED = 'operation-payment_created';
+export const OPERATION_PAYMENT_DETECTED = 'operation-payment_detected';
 export const OPERATION_PAYMENT_STATUS_UPDATED =
   'operation-payment_status_updated';
 export const OPERATION_WITHDRAWAL_STATUS_UPDATED =
