@@ -7,6 +7,7 @@ export const OPERATION_PAYMENT_STATUS_UPDATED =
 export const OPERATION_WITHDRAWAL_STATUS_UPDATED =
   'operation-withdrawal_status_updated';
 export const OPERATION_INVOICE_CREATED = 'operation-invoice_created';
+export const OPERATION_INVOICE_CANCELED = 'operation-invoice_canceled';
 export const SECURITY_AUTHENTICATION_DEVICE_UPDATED =
   'security-authentication_device_updated';
 export const SECURITY_PASSWORD_UPDATED = 'security-password_updated';
