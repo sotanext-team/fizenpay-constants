@@ -6,6 +6,12 @@ export const OPERATION_PAYMENT_STATUS_UPDATED =
   'operation-payment_status_updated';
 export const OPERATION_WITHDRAWAL_STATUS_UPDATED =
   'operation-withdrawal_status_updated';
+export const OPERATION_WITHDRAWAL_STATUS_CREATED =
+  'operation-withdrawal_status_created';
+export const OPERATION_WITHDRAWAL_STATUS_COMPLETED =
+  'operation-withdrawal_status_completed';
+export const OPERATION_WITHDRAWAL_STATUS_FAILED =
+  'operation-withdrawal_status_failed';
 export const OPERATION_INVOICE_CREATED = 'operation-invoice_created';
 export const OPERATION_INVOICE_CANCELED = 'operation-invoice_canceled';
 export const SECURITY_AUTHENTICATION_DEVICE_UPDATED =
