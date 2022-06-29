@@ -1,6 +1,7 @@
 export const MERCHANT_CONST_EVENTS = {
   MERCHANT_UPDATE_PAYMENT_SETTINGS: 'merchant.update_payment_settings',
   MERCHANT_UPDATE_CRYPTO_SETTINGS: 'merchant.update_crypto_settings',
+  MERCHANT_SETUP_WALLET_SUCCESSFULLY: 'merchant.setup_wallet_successfully',
   // Security
   SECURITY_AUTHENTICATION_DEVICE_UPDATED:
     'security.authentication_device_updated',
