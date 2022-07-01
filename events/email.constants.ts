@@ -5,4 +5,7 @@ export const EMAIL_CONST_EVENTS = {
   EMAIL_PARTNERSHIP_FORM: 'email.partnership_form',
   EMAIL_CLOSE_ACCOUNT: 'email.close_account',
   EMAIL_WHITELIST_NOTIFICATION: 'email.whitelist_notification',
+
+  // Blockchain service
+  EMAIL_BALANCE_OF_MOW_REACH_THRESHOLD: 'email.balance_of_mow_reach_threshold',
 };
