@@ -8,4 +8,5 @@ export const EMAIL_CONST_EVENTS = {
 
   // Blockchain service
   EMAIL_BALANCE_OF_MOW_REACH_THRESHOLD: 'email.balance_of_mow_reach_threshold',
+  EMAIL_OW_ABNORMAL_TRANSACTION: 'email.ow_abnormal_transaction',
 };
