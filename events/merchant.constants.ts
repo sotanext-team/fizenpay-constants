@@ -1,4 +1,6 @@
 export const MERCHANT_CONST_EVENTS = {
+  MERCHANT_REGISTRATION_APPROVED: 'merchant.registraton_approved',
+  MERCHANT_DEACTIVED: 'merchant.deactivated',
   MERCHANT_UPDATE_PAYMENT_SETTINGS: 'merchant.update_payment_settings',
   MERCHANT_UPDATE_CRYPTO_SETTINGS: 'merchant.update_crypto_settings',
   MERCHANT_SETUP_WALLET_SUCCESSFULLY: 'merchant.setup_wallet_successfully',
