@@ -14,6 +14,9 @@ export const EMAIL_CONST_EVENTS = {
   EMAIL_TOPUP_THRESHOLD_CHANGED: 'email.topup_threshold_changed',
   EMAIL_BLOCKCHAIN_NETWORK_SETTINGS_CHANGED:
     'email.blockchain_network_settings_changed',
+  EMAIL_CRYPTO_CURRENCY_DEFAULT_STATUS_CHANGED:
+    'email.crypto_currency_default_status_changed',
+  EMAIL_CRYPTO_CURRENCY_STATUS_CHANGED: 'email.crypto_currency_status_changed',
 
   // Fizen Wallet service
   EMAIL_PENDING_GIFTCARD_REQUEST: 'email.pending_giftcard_request',
