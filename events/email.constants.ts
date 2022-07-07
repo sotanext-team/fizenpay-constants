@@ -12,6 +12,8 @@ export const EMAIL_CONST_EVENTS = {
   EMAIL_NUM_INACTIVE_OW_REACH_THRESHOLD:
     'email.number_of_inactive_ow_reach_threshold',
   EMAIL_TOPUP_THRESHOLD_CHANGED: 'email.topup_threshold_changed',
+  EMAIL_BLOCKCHAIN_NETWORK_SETTINGS_CHANGED:
+    'email.blockchain_network_settings_changed',
 
   // Fizen Wallet service
   EMAIL_PENDING_GIFTCARD_REQUEST: 'email.pending_giftcard_request',
