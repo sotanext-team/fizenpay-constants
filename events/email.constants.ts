@@ -11,4 +11,5 @@ export const EMAIL_CONST_EVENTS = {
   EMAIL_OW_ABNORMAL_TRANSACTION: 'email.ow_abnormal_transaction',
   EMAIL_NUM_INACTIVE_OW_REACH_THRESHOLD:
     'email.number_of_inactive_ow_reach_threshold',
+  EMAIL_TOPUP_THRESHOLD_CHANGED: 'email.topup_threshold_changed',
 };
