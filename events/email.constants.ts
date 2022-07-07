@@ -11,4 +11,7 @@ export const EMAIL_CONST_EVENTS = {
   EMAIL_OW_ABNORMAL_TRANSACTION: 'email.ow_abnormal_transaction',
   EMAIL_NUM_INACTIVE_OW_REACH_THRESHOLD:
     'email.number_of_inactive_ow_reach_threshold',
+
+  // Fizen Wallet service
+  EMAIL_PENDING_GIFTCARD_REQUEST: 'email.pending_giftcard_request',
 };
