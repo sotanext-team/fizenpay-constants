@@ -20,4 +20,5 @@ export const EMAIL_CONST_EVENTS = {
 
   // Fizen Wallet service
   EMAIL_PENDING_GIFTCARD_REQUEST: 'email.pending_giftcard_request',
+  EMAIL_REFUND_WALLET_THRESHOLD_REQUEST: 'email.refund_wallet_threshold_request',
 };
