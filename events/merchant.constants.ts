@@ -18,4 +18,5 @@ export const MERCHANT_CONST_EVENTS = {
   SETTINGS_ACCEPT_CRYPTO_LIST: 'settings.accept_crypto_list',
   SETTINGS_FLEXIBLE_PAYMENT_UPDATED: 'settings.flexible_payment_updated',
   SETTINGS_AUTO_WITHDRAWAL_UPDATED: 'settings.auto_withdrawal_updated',
+  SETTINGS_NEW_CHAIN_IS_CREATED: 'settings.new_chain_is_created',
 };
