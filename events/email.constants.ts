@@ -24,4 +24,7 @@ export const EMAIL_CONST_EVENTS = {
 
   // Security
   EMAIL_TOO_MANY_MERCHANT_REGISTRATIONS: 'email.too_many_merchant_registrations',
+
+  // Charge Receipt
+  EMAIL_CHARGE_RECEIPT: 'email.charge_receipt',
 };
