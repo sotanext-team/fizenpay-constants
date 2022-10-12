@@ -1,6 +1,7 @@
 export const MERCHANT_CONST_EVENTS = {
   MERCHANT_REGISTRATION_PENDING_APPROVAL:
     'merchant.registraton_pending_approval',
+  MERCHANT_REGISTERED: 'merchant.registered',
   MERCHANT_ACTIVED: 'merchant.activated',
   MERCHANT_DEACTIVED: 'merchant.deactivated',
   MERCHANT_UPDATE_PAYMENT_SETTINGS: 'merchant.update_payment_settings',
