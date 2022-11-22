@@ -22,6 +22,8 @@ export const EMAIL_CONST_EVENTS = {
   EMAIL_PENDING_GIFTCARD_REQUEST: 'email.pending_giftcard_request',
   EMAIL_REFUND_WALLET_THRESHOLD_REQUEST: 'email.refund_wallet_threshold_request',
   EMAIL_RECEIVER_WALLET_THRESHOLD_REQUEST: 'email.receiver_wallet_threshold_request',
+  EMAIL_UPDATE_XOXO_ACCESS_TOKEN_REQUEST:
+      'email.update_xoxo_access_token_request',
 
   // Security
   EMAIL_TOO_MANY_MERCHANT_REGISTRATIONS: 'email.too_many_merchant_registrations',
